@@ -65,4 +65,5 @@ For example, to play a song named "my_song.json", use the following command:
 ![](https://i.imgur.com/gtOIR07.png )
 
 ## Example Videos
-[![Video Title](http://img.youtube.com/vi/OlUAxdPbG94/0.jpg)](http://www.youtube.com/watch?v=OlUAxdPbG94)
+
+[![](https://markdown-videos.vercel.app/youtube/OlUAxdPbG94)](https://youtu.be/OlUAxdPbG94)

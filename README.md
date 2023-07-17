@@ -21,7 +21,7 @@ The script reads JSON files containing music sheet data and translates the notes
 
 4. Make sure you have the Chiaki remote-play application installed on your computer. You can download it from the official Chiaki GitHub repository: [github.com/thestr4ng3r/chiaki](github.com/thestr4ng3r/chiaki)
 
-5. In Chiaki, map the PlayStation controller buttons to match the key mappings used by the script. Ensure that the mappings are set up correctly according to the following key mapping dictionary:
+5. In Chiaki, map the PlayStation controller buttons to match the key mappings used by the script, see the screenshot below for reference. Ensure that the mappings are set up correctly according to the following key mapping dictionary:
 ```key_mapping = {
     '1Key0': '3',
     '1Key1': '4',
@@ -59,3 +59,10 @@ For example, to play a song named "my_song.json", use the following command:
 `python sky_automated_music.py my_song`
 
 5. The script will automatically activate the Chiaki window and start playing the music in the game.
+
+
+## Chiaki Key Mapping Reference
+![](https://i.imgur.com/gtOIR07.png )
+
+## Example Videos
+[![Video Title](http://img.youtube.com/vi/OlUAxdPbG94/0.jpg)](http://www.youtube.com/watch?v=OlUAxdPbG94)

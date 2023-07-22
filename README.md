@@ -1,4 +1,4 @@
-# Sky: CotL Automated Music
+# Sky: CotL Automated Music Script for Playstation
 
 Automate music playback in the game Sky: Children of the Light by reading music sheets and sending commands through the remote-play application Chiaki (for PS4 and PS5 only).
 
